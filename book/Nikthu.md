@@ -1,6 +1,6 @@
 PERFIL 
 ==============
-* nombre: Jorge Villanueva
-* edad: 27
+* Nombre: Jorge Villanueva Gópmez
+* Edad: 27
 * Lenguaje: Java
-* Carrera: Grado en Ingenieria de Software
+* Carrera: Grado en Ingeniería de Software
