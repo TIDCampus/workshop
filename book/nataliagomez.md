@@ -1,6 +1,6 @@
 PERFIL
 ================
- * Nombre: Natalia Gomez Garcia
+ * Nombre: Natalia Gómez García
  * Edad: 25
  * Lenguajes: Java, PHP, Ruby, C
- * Carrera: Ingenieria Informatica
+ * Carrera: Ingeniería Informática
