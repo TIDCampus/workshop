@@ -1,6 +1,6 @@
-PERFIL
+PROFILE
 ======================
- * Nombre: Álvaro Aguilar Vián
- * Edad: 28
- * Lenguajes: C, Java, Python, PHP, HTML.
- * Carrera: Ingeniero Técnico en Informática de Gestión y Graduado en Informática.
+ * Full Name: Alvaro Aguilar Vian
+ * Age: 28 years old
+ * Programming languages: C, Java, Python, PHP.
+ * Education: Ingeniero Tecnico en Informatica de Gestion y Graduado en Informatica.
