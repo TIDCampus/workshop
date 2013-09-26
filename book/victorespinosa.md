@@ -1,6 +1,6 @@
 Perfil
 ============
-*Nombre: Victor Espinosa
+*Nombre: Victor Espinos Gª de Paredesa
 *Edad: 24
-*Lengua: Español
+*Lengua: C y Java.
 *Carrera: Telecomunicaciones
