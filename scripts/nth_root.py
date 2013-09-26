@@ -1,3 +1,5 @@
+#authors: Alvaro Aguilar & Alvaro Sanchez
+
 print "Welcome to the nth root calculator"
 
 radicand = raw_input("Enter radicand: ")
