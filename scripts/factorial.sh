@@ -2,7 +2,7 @@ n=0
 n1=0
 fact=1 
 
-echo "Enter number to find factorial : "
+echo -n "Enter number to find factorial : "
 read n
 
 n1=$n
