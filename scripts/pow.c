@@ -1,4 +1,4 @@
-float pow(float x, int y){
+float power(float x, int y){
 	float res = 1;
 	int i;
 	for (i=0;i<y;i++){
@@ -9,12 +9,10 @@ float pow(float x, int y){
 
 int main(int argc, char *argv[])
 {
-printf("%c\n",argc);
-	if (argc<2)
+	if (argc<3)
 		printf("Faltan operandos");
 	else{
-		printf("%f\n",argv(1));
-		printf("%f\n",argv(2));
+		printf("%f\n",power(atof(argv[1]),atoi(argv[2])));
 	}
 }
 
