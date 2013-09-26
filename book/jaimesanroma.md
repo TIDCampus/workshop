@@ -1,6 +1,6 @@
 ï»¿PERFIL
 ===============
- *Nombre: Jaime Sanroma Oca de Zayas \n
- *Edad: 26 \n
- *Lenguajes: Shell scripting, Powershell \n
- *Carrera: Ingeniería Informática \n
+ *Nombre: Jaime Sanroma Oca de Zayas
+ *Edad: 26
+ *Lenguajes: Shell scripting, Powershell
+ *Carrera: Ingeniería Informática
