@@ -6,6 +6,6 @@ PERFIL
 
 *edad: 23
 
-*Lenguajes: Java, C, MAtlab, GIT.
+*Lenguajes: Java, C, Matlab, GIT.
 
 *Carrera: Ingeniero Telecomunicaciones.
