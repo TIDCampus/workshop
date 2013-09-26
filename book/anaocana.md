@@ -4,4 +4,4 @@ nombre: Ana Maria
 edad: 22
 lenguajes de programacion: java, html, android, CSS, XML.
 carrera: Ingenieria Tecnica de Telecomunicaciones especialidad Telematica
-		 Master en desarrollo de aplicaciones web y moviles
+master: Master en desarrollo de aplicaciones web y moviles
