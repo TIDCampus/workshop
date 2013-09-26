@@ -2,5 +2,5 @@ PERFIL
 =============================================
 *nombre: Javier de Benito
 *edad: 26
-*lenguaje de programación: java
+*lenguaje de programacion: java
 *carrera: Grado Ing Telematica
