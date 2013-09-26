@@ -1,6 +1,2 @@
-a = 1
-b = 3
-c = 10
 
-
-puts "Sumo #{a} con #{b} y #{c}, dandome #{a+b+c}"
+puts "Sumo #{ARGV[0]} con #{ARGV[1]} y #{ARG[2]}, dandome #{ARGV[0]+ARGV[1]+ARG[2]}"
