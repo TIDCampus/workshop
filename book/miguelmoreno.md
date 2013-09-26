@@ -1,5 +1,4 @@
 PERFIL
-
 =====================
  * Nombre:	Miguel Ángel Moreno Gómez
  * Edad:	26
