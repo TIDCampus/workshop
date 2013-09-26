@@ -1,7 +1,6 @@
 PERFIL
 ==========================================
-	*Nombre: Eric Daniel Fernandez
+	*Nombre: Eric Daniel Fernández
 	*Edad: 25
-	*Lenguas: Catalán, Castellano, Inglés
 	*Lenguajes: java, C, C++
-	*Carrera: Ingenieria de telecomunicaciones esp. telemática
+	*Carrera: Ingeniería de telecomunicaciones esp. telemática
