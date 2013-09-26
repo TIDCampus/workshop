@@ -3,4 +3,4 @@ Perfil
 * nombre: Juan Antonio
 * edad: 27
 * lenguaje: C#, Java
-* carrera: teleco
+* carrera: teleco 4+1
