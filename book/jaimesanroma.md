@@ -1,6 +1,6 @@
 ï»¿PERFIL
-====================================
+===============
  *Nombre: Jaime Sanroma Oca de Zayas
  *Edad: 26
- *Lenguaje: Powershell
+ *Lenguajes: Shell scripting, Powershell
  *Carrera: Ingeniería Informática
