@@ -1,7 +1,7 @@
 PERFIL
 ========
 
-    * nombre: Luis Leon Toribios
-    * edad: 28
-    * lenguaje: java
-    * carrera: Ing. de Telecomunicaciones
+    * __nombre__: Luis Leon Toribios
+    * __edad__: 28
+    * __lenguaje__: java
+    * __carrera__: Ingeniería de Telecomunicaciones
