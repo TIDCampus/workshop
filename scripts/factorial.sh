@@ -1,11 +1,11 @@
 n=0
-on=0
+n1=0
 fact=1 
 
 echo "Enter number to find factorial : "
 read n
 
-on=$n
+n1=$n
 
 while [ $n -ge  1 ]
 do
@@ -13,4 +13,4 @@ do
   n=`expr $n - 1`
 done
 
-echo "Factorial for $on is $fact"
+echo "Factorial for $n1 is $fact"
