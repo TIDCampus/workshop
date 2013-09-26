@@ -1,6 +1,6 @@
-PERFIL
+PROFILE
 =======================
- * Nombre: Alvaro Sanchez Perez
- * Edad: 22
- * Lenguajes: Java, C, C#, PHP
- * Carrera: Degree in Telematics Engineering
+ * Full Name: Alvaro Sanchez Perez
+ * Age: 22 years old
+ * Programming Languages: Java, C, C#, PHP
+ * Studies: Degree in Telematics Engineering
