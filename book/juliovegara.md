@@ -1,6 +1,6 @@
 PERFIL
 =============
- *nombre: Julio Vegara Villaescusa
- *edad: 24
- *lenguajes: Java, C, HTML, CSS, XML, Javascript, PHP, android
- *carrera: I.T.T. sistemas electronicos
+ *Nombre: Julio Vegara Villaescusa
+ *Edad: 24
+ *Lenguajes: Java, C, HTML, CSS, XML, Javascript, PHP, android
+ *Carrera: I.T.T. sistemas electronicos
