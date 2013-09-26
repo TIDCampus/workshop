@@ -1,6 +1,6 @@
 ﻿PERFIL
 ==========
-	* Nombre: David DeJuan
+	* Nombre: David de Juan
 	* Edad: 22
 	* Lenguajes: java, C
-	* Carrera Ingeniería Superior en Informática
+	* Carrera: Ingeniería Superior en Informática
