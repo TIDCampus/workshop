@@ -4,4 +4,3 @@ PERFIL
 *Edad: 27
 *lenguajes: c,java,python
 *carrera: Ingenieria de telecomunicaciones
-
