@@ -2,6 +2,7 @@ PERFIL
 -----------
 -----------
 *Nombre: Álvaro Aguilar-Tablada
-*Edad: 19
-*Lenguajes: Java, C++, Checo
+*Edad: 27
+*Lenguajes: Java, C++
+*Idiomas: Español, Inglés
 *Carrera: Ing. Teleco
