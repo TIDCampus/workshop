@@ -1,6 +1,6 @@
 PERFIL
 ==============
-* nombre: Javier Delgado
-* edad: 25
-* lengua: Java, C, C++, C#, Ada, Lisp, 
-* carrera: Ingeniería Informática
+* Nombre: Javier Delgado
+* Edad: 25
+* Lengua: Java, C, C++, C#, Ada, Lisp, 
+* Carrera: Ingenieria Informatica
