@@ -1,3 +1,4 @@
+#!/bin/bash
 n=0
 n1=0
 fact=1 
