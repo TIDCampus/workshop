@@ -1,7 +1,7 @@
 PERFIL
 ===========================================
-*nombre:Sonia Candelas
+*nombre:Sonia Candelas Plasencia
 *Edad: 27
 *lenguajes: c,java,python
-*carrera: teleco
+*carrera: Ingenieria de telecomunicaciones
 
