@@ -1,6 +1,6 @@
 PERFIL
 =============
-  * nombre: Adrián Grasa
-  * edad: 23 años
-  * lenguajes: java, objective-C, C
-  * carrera: Ingeniería Superior en Informática
+  * Nombre: Adrián Grasa
+  * Edad: 23 años
+  * Lenguajes: java, objective-C, C
+  * Carrera: Ingeniería Superior en Informática
